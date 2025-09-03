@@ -1,7 +1,7 @@
 # Hi, I’m Marjan 👋
 
 **MASc (UofT) – Chemical Engineering | Protein Engineering & Machine Learning | ex-Software Engineer**  
-AI × Computational Biology | Toronto, Canada | [Email](mailto:m.mjn202@gmail.com)
+AI, Computational Biology | Toronto, Canada | [Email](mailto:m.mjn202@gmail.com)
 
 ---
 
@@ -12,7 +12,6 @@ AI × Computational Biology | Toronto, Canada | [Email](mailto:m.mjn202@gmail.co
 - **GFP function predictor** with calibrated [0,1] outputs.
 
 ### Links
-- **CV:** [Marjan_Mohammadi_CV.pdf](Marjan_Mohammadi_CV.pdf)
 - **LinkedIn:** *(add your link here)*
 - **GitHub:** [@marjanUofT](https://github.com/marjanUofT)
 
