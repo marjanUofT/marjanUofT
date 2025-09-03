@@ -12,7 +12,7 @@ AI, Computational Biology | Toronto, Canada | [Email](mailto:m.mjn202@gmail.com)
 - **GFP function predictor** with calibrated [0,1] outputs.
 
 ### Links
-- **LinkedIn:** (www.linkedin.com/in/marjan-mohammadi-61a09468)
+- **LinkedIn:** [@marjanmohammadi](www.linkedin.com/in/marjan-mohammadi-61a09468)
 - **GitHub:** [@marjanUofT](https://github.com/marjanUofT)
 
 ### Tech I use
