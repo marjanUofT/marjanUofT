@@ -16,4 +16,4 @@ AI, Computational Biology
 - **GitHub:** [@marjanUofT](https://github.com/marjanUofT)
 
 ### Tech I use
-`Python` `PyTorch` `ESM-1b` `EvoDiff` `t-SNE` `JackHMMER` `pandas` `matplotlib` `scikit-learn` `Java`
+`Python` `PyTorch` `Java`
