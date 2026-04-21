@@ -1,7 +1,7 @@
 # Hi, I’m Marjan 👋
 
 **MASc (UofT) – Chemical Engineering | Protein Engineering & Machine Learning | ex-Software Engineer**  
-AI, Computational Biology
+Data Science | Machine Learning | Data Analysis | Reproducible Research
 
 ---
 
